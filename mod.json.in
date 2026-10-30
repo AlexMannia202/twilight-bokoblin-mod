@@ -1,0 +1,7 @@
+{
+  "id": "com.chatgpt.twilight_bokoblin_mod",
+  "name": "Twilight Bokoblin Mod",
+  "version": "@PROJECT_VERSION@",
+  "author": "Mod prototype",
+  "description": "Makes Bokoblins pursue and chain attacks more aggressively. Experimental prototype."
+}
